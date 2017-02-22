@@ -23,12 +23,21 @@ Please contact to us if you re-use the codes.
 
 # References
 [1] Ani Nenkova. 2005. Automatic Text Summarization of Newswire: Lessons Learned from the Document Understanding Conference. In AAAI: 1436-1441.
+
 [2] Kristian Woodsend and Mirella Lapata. 2010. Automatic Generation of Story Highlights. In ACL: 565-574.
+
 [3] Gunes Erkan and Dragomir R. Radev. 2004. Lexrank: Graph-based Lexical Centrality as Salience in Text Summarization. Journal of Articial Intelligence Research, 22: 457-479 (2004).
+
 [4] Zi Yang, Keke Cai, Jie Tang, Li Zhang, Zhong Su, and Juanzi Li. 2011. Social Context Summarization. In SIGIR: 255-264.
+
 [5] Dou Shen, Jian-Tao Sun, Hua Li, Qiang Yang, and Zheng Chen. 2007. Document Summarization Using Conditional Random Fields. In IJCAI: 2862-2867.
+
 [6] Minh-Tien Nguyen and Minh-Le Nguyen. 2016. SoRTESum: A Social Context Framework for Single-Document Summarization. In ECIR: 3-14.
+
 [7] Wei Gao, Peng Li, and Kareem Darwish. 2012. Joint Topic Modeling for Event Summarization across News and Social Media Streams. In CIKM: 1173-1182.
+
 [8] Zhongyu Wei and Wei Gao. 2015. Gibberish, Assistant, or Master?: Using Tweets Linking to News for Extractive Single-Document Summarization. In SIGIR: 1003-1006.
+
 [9] Zhongyu Wei and Wei Gao. 2014. Utilizing Microblogs for Automatic News Highlights Extraction. In COLING: 872-883.
+
 [10] Minh-Tien Nguyen, Duc-Vu Tran, Chien-Xuan Tran, and Minh-Le Nguyen. 2016. Learning to Summarize Web Documents using Social Information. In ICTAI: 619-626.
