@@ -9,11 +9,11 @@ This project includes the codes of summary methods for social context summarizat
 5. CRF: trains a sequence labeling classifier and extracts sentences labeled by 1 [5].
 
 # State-of-the-art methods
-6. SoRTESum [6]: uses a set of distance and lexical features to compute the score of each sentence by using the support from tweets.
-7. cc-TAM [7]: uses a cross-collection topic-aspect modeling as a preliminary step for co-ranking.
-8. HGRW [8]: is an extension of LexRank
-9. L2R [9]: uses RankBoost with a set of local sentence features and cross features from tweets.
-10. SoSVMRank [10]: is an improvement of [9] by adding a set of new features and using Ranking SVM instead of RankBoost.
+1. SoRTESum [6]: uses a set of distance and lexical features to compute the score of each sentence by using the support from tweets.
+2. cc-TAM [7]: uses a cross-collection topic-aspect modeling as a preliminary step for co-ranking.
+3. HGRW [8]: is an extension of LexRank
+4. L2R [9]: uses RankBoost with a set of local sentence features and cross features from tweets.
+5. SoSVMRank [10]: is an improvement of [9] by adding a set of new features and using Ranking SVM instead of RankBoost.
 
 Because summary methods in [1-4] are quite simple and use traditional features, we release methods in [5-10]. Each method is organized in a package corresponding to the method name. Each package has an Example.java file, which shows the usage of each method. For example, docsum.crf contains the code of CRF. In package docsum.crf.features include the features used to train CRF and package docsum.crf.main shows the usage of features.
 
