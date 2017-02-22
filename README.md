@@ -26,7 +26,7 @@ Please contact to us if you re-use the codes.
 
 [2] Kristian Woodsend and Mirella Lapata. 2010. Automatic Generation of Story Highlights. In ACL: 565-574.
 
-[3] Gunes Erkan and Dragomir R. Radev. 2004. Lexrank: Graph-based Lexical Centrality as Salience in Text Summarization. Journal of Articial Intelligence Research, 22: 457-479 (2004).
+[3] Gunes Erkan and Dragomir R. Radev. 2004. Lexrank: Graph-based Lexical Centrality as Salience in Text Summarization. Journal of Artificial Intelligence Research, 22: 457-479 (2004).
 
 [4] Zi Yang, Keke Cai, Jie Tang, Li Zhang, Zhong Su, and Juanzi Li. 2011. Social Context Summarization. In SIGIR: 255-264.
 
