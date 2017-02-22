@@ -1,4 +1,5 @@
-# Social Context Summarization: using the support from user-generated content such as tweets or comments to enrich Web document summarization
+# Social Context Summarization
+
 This project includes the codes of summary methods for social context summarization [4,6,7,8,9,10]. The codes are implemented from several papers shown in references. Summary methods include:
 
 # Baselines
