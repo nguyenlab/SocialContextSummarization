@@ -22,6 +22,9 @@ NOTE: the code of cc-TAM is derived from the authors. Therefore, please contact 
 
 Please contact to us if you re-use the codes.
 
+# Dataset
+This project includes a dataset taken from [9]. We created a label for each sentence and tweet.
+
 # References
 [1] Ani Nenkova. 2005. Automatic Text Summarization of Newswire: Lessons Learned from the Document Understanding Conference. In AAAI: 1436-1441.
 
